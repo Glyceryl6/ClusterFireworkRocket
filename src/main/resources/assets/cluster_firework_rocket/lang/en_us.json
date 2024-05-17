@@ -1,0 +1,10 @@
+{
+    "item.cfr.cluster_firework_rocket.bomblet_count": "Bomlet Count: ",
+    "item.cfr.cluster_firework_rocket.enhancement_level": "Enhancement Level: ",
+    "item.cfr.cluster_firework_rocket.bomblet_type": "Bomlet Type: ",
+    "item.cfr.cluster_firework_rocket.bomblet_type.empty": "Empty",
+    "item.cfr.cluster_firework_rocket.bomblet_type.exploding": "Exploding",
+    "item.cfr.cluster_firework_rocket.bomblet_type.burning": "Burning",
+    "item.cfr.cluster_firework_rocket.bomblet_type.arrow": "Arrow",
+    "item.cluster_firework_rocket.cluster_firework_rocket": "Cluster Firework Rocket"
+}

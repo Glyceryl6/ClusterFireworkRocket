@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.glyceryl6.firework.mixin",
+    "refmap": "cfr.refmap.json",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [
+        "MixinArrow",
+        "MixinCrossbowItem"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+  }
+}

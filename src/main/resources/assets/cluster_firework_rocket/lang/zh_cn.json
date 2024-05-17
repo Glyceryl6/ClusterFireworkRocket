@@ -1,0 +1,10 @@
+{
+    "item.cfr.cluster_firework_rocket.bomblet_count": "小炸弹数量：",
+    "item.cfr.cluster_firework_rocket.enhancement_level": "强化等级：",
+    "item.cfr.cluster_firework_rocket.bomblet_type": "小炸弹类型：",
+    "item.cfr.cluster_firework_rocket.bomblet_type.empty": "无",
+    "item.cfr.cluster_firework_rocket.bomblet_type.exploding": "爆炸型",
+    "item.cfr.cluster_firework_rocket.bomblet_type.burning": "燃烧型",
+    "item.cfr.cluster_firework_rocket.bomblet_type.arrow": "弓箭型",
+    "item.cluster_firework_rocket.cluster_firework_rocket": "集束烟花火箭"
+}
