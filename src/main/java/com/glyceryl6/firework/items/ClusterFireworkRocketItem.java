@@ -114,7 +114,7 @@ public class ClusterFireworkRocketItem extends FireworkRocketItem {
         }
     }
 
-    private static void spawnFireworkRocket(ItemStack stack, ClusterFireworkRocketEntity fireworkRocketEntity, Level level) {
+    public static void spawnFireworkRocket(ItemStack stack, ClusterFireworkRocketEntity fireworkRocketEntity, Level level) {
         CompoundTag element = stack.getOrCreateTagElement("Fireworks");
         fireworkRocketEntity.bombletCount = element.getInt("BombletCount") * 3;
         fireworkRocketEntity.enhancementLevel = element.getInt("EnhancementLevel");
